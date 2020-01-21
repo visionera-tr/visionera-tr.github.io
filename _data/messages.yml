@@ -9,7 +9,6 @@ locales:
     Hours: "Hours"
     Minutes: "Minutes"
     Seconds: "Seconds"
-    Learn_More: "Learn More"
   en_US: 
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK: 
