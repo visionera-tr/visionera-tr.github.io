@@ -126,7 +126,7 @@ section.main-content .input-group {
 }
 
 section.main-content .btn-danger {
-    background-color: #f64747;
+    background-color: #000000;
     min-width: 69px;
     font-size: 23px;
     padding: 0;
@@ -138,7 +138,7 @@ section.main-content .btn-danger {
 section.main-content .btn-danger:hover {
     background-color: #464646;
     border-color: #464646;
-    color: #f64747;
+    color: #000000;
 }
 
 section.main-content .form-control {
@@ -179,7 +179,7 @@ section.footer p a {
     z-index: 1;
     margin-top: 10%;
     padding-top: 5px;
-    background: #f64747;
+    background: #000000;
     color: white;
     padding-bottom: 10px;
 }
@@ -191,7 +191,7 @@ section.footer p a {
     z-index: -1;
     width: 125%;
     height: 105%;
-    background: #f64747;
+    background: #000000;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
@@ -202,7 +202,7 @@ section.footer p a {
 
 .footer::before {
     height: 50%;
-    background: #f64747;
+    background: #000000;
     -webkit-transform: rotate(-2deg);
     -ms-transform: rotate(-2deg);
     transform: rotate(-2deg);
